@@ -1,0 +1,19 @@
+{
+  "name": "tribute",
+  "version": "1.0.0",
+  "description": "It's a tribute page",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurnikhil/codeCamp.git"
+  },
+  "author": "Nikhil Gaur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurnikhil/codeCamp/issues"
+  },
+  "homepage": "https://github.com/gaurnikhil/codeCamp#readme"
+}
