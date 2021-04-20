@@ -4,7 +4,7 @@
   "description": "It's a tribute page",
   "main": "index.html",
   "scripts": {
-    "start": "npm run lite",
+    "start": "npm rum lite",
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/gaurnikhil/codeCamp/issues"
   },
-  "homepage": "https://github.com/gaurnikhil/codeCamp#readme",
-  "devDependencies": {
-    "lite-server": "^2.6.1"
-  }
+  "homepage": "https://github.com/gaurnikhil/codeCamp#readme"
 }
